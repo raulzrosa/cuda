@@ -1,0 +1,14 @@
+usaremos a arquitetura Kepler
+
+idendificador de warp em um bloco
+warpID = threadldx.x/32
+
+temmais alguma coisa aqui..
+
+
+
+tipos de instrução no warp sufle
+
+__shfl -> efetua um broadcast da lane tal para todas as threas no warp.
+
+
