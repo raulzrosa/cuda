@@ -1,12 +1,3 @@
-/*
-* Programacao Concorrente
-* Trabalho Final
-* 2º semestre ,2014
-*
-* Cláudio César Domene Júnior - 7987310
-* Guilherme Barranco Piva     - 7696462
-* Weslei Renato de Lima       - 6511258
-*/
 
 #include <stdlib.h>
 #include <stdio.h>
